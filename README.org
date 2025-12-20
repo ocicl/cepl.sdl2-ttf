@@ -1,0 +1,9 @@
+* cepl.sdl2-ttf
+
+SDL2_ttf font rendering integration for CEPL.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/cbaggers/cepl.sdl2-ttf.git |
+| commit  | 11b498a                                           |
+| systems | cepl.sdl2-ttf                                     |
+|---------+---------------------------------------------------|
